@@ -9,7 +9,7 @@
 <p>it will give idea about who really know me!</p>
 </li>
 <li>
-<p>Game rules are simple: For <em>each</em> <strong>correct answer</strong> you will be rewarded with <strong>1 scoere point</strong> and for <strong>incorrect answer</strong></p>
+<p>Game rules are simple: For <em>each</em> <strong>correct answer</strong> you will be rewarded with <strong>1 scoere point</strong> and for </p>
 </li>
 <li>
 <p>In the end check out your final score</p>
